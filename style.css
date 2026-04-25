@@ -168,7 +168,7 @@ header {
 }
 
 .left img {
-  width: 100%;
+  width: 110%;
   max-width: clamp(240px, 70vw, 420px);
   border-radius: 16px;
 }
